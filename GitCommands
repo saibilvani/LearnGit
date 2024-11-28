@@ -1,4 +1,4 @@
-git init
+mkdir <filename>
 create a repository in remote and add a file into it
 now copy the repository file to local by using the command git clone 
 ls- list the files/directories
