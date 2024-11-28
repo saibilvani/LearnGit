@@ -1,1 +1,10 @@
 git init
+create a repository in remote and add a file into it
+now copy the repository file to local by using the command git clone 
+ls- list the files/directories
+go to local repo
+make any changes
+use git add . ----now the changes will be included 
+use git commit -m "-----" (changes will be saved in local repo)
+use git push origin main ---here origin is the remote and main is the branch,  enter login details if its looking for authentication
+now we can see the changes in remote .
