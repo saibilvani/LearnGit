@@ -2,3 +2,6 @@ git fetch
 git pull
 git add .
 cat .filename\
+
+
+commit the changes in remote then just enter git pull in vs code
